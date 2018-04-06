@@ -1,0 +1,2 @@
+../images/lab_anchored2.jpg
+../images/lab_anchored3.jpg

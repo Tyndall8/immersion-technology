@@ -1,0 +1,16 @@
+For all pis:
+Username: pi
+Password: capstone2018
+
+B1		IT-picam1
+good to go
+
+B2		IT-picam2
+good to go
+
+B3		IT-picam3
+
+
+B4		IT-picam4
+good to go
+
